@@ -235,7 +235,7 @@
 
 .card-1 {
     width: 100%;
-    background-image: url("/assets/css/Layer\ 9.png");
+    background-image: url("Layer9.png");
     /* height: 229px; */
 
 
@@ -273,7 +273,7 @@
 
 .card-2 {
     width: 100%;
-    background-image: url("/assets/css/Layer\ 10.png");
+    background-image: url("Layer10.png");
 
 }
 
@@ -356,7 +356,7 @@
 
 .card-3 {
     width: 100%;
-    background-image: url("/assets/css/Layer\ 11.png");
+    background-image: url("Layer11.png");
 
 }
 
@@ -369,7 +369,7 @@
 }
 
 .section4-AI {
-    background-image: url("/Evaluation1/assets/img/house-g4f97e082b_1920.png");
+    background-image: url("/assets/img/house1.png");
     background-color: black;
 
 }
