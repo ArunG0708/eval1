@@ -60,7 +60,7 @@
 
 
 .section-1 {
-    background-image: url("/Evaluation1/assets/img/home-parallax.png");
+    background-image: url("/assets/img/home-parallax.png");
     background-size: cover;
     height: 400px;
 }
@@ -235,7 +235,7 @@
 
 .card-1 {
     width: 100%;
-    background-image: url("/Evaluation1/assets/img/house.png");
+    background-image: url("/assets/img/house.png");
     /* height: 229px; */
 
 
@@ -273,7 +273,7 @@
 
 .card-2 {
     width: 100%;
-    background-image: url("/Evaluation1/assets/img/Layer\ 10.png");
+    background-image: url("/assets/img/Layer\ 10.png");
 
 }
 
@@ -356,7 +356,7 @@
 
 .card-3 {
     width: 100%;
-    background-image: url("/Evaluation1/assets/img/Layer\ 11.png");
+    background-image: url("/assets/img/Layer\ 11.png");
 
 }
 
